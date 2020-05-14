@@ -12,3 +12,4 @@
 <img src="images/mah_1.jpg">
 <img src="images/re_1.png">
 <img src="images/bal2.jpg">
+<img src="images/satsang_1.JPG">
